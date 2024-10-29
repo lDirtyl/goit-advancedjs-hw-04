@@ -229,3 +229,14 @@ a {
 .loader.is-hidden {
   display: none;
 }
+.load-more {
+  display: block;
+  margin: 0 auto;
+  width: 126px;
+  margin-bottom: 44px;
+  transition: opacity 250ms linear;
+}
+
+.load-more.is-hidden {
+  display: none;
+}
